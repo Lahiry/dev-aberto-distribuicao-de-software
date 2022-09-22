@@ -1,0 +1,9 @@
+setup.py
+Lahiry.egg-info/PKG-INFO
+Lahiry.egg-info/SOURCES.txt
+Lahiry.egg-info/dependency_links.txt
+Lahiry.egg-info/requires.txt
+Lahiry.egg-info/top_level.txt
+dev_aberto/__init__.py
+dev_aberto/dev_aberto.py
+scripts/hello.py
